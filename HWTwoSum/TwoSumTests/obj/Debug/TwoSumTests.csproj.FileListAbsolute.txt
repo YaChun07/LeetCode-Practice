@@ -1,0 +1,9 @@
+D:\程式練習\TwoSum\TwoSumTests\bin\Debug\TwoSumTests.dll
+D:\程式練習\TwoSum\TwoSumTests\bin\Debug\TwoSumTests.pdb
+D:\程式練習\TwoSum\TwoSumTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\程式練習\TwoSum\TwoSumTests\bin\Debug\TwoSum.dll
+D:\程式練習\TwoSum\TwoSumTests\bin\Debug\TwoSum.pdb
+D:\程式練習\TwoSum\TwoSumTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\程式練習\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.csprojResolveAssemblyReference.cache
+D:\程式練習\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.dll
+D:\程式練習\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.pdb
