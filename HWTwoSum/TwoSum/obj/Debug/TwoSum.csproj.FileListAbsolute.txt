@@ -3,8 +3,3 @@ D:\程式練習\TwoSum\TwoSum\bin\Debug\TwoSum.pdb
 D:\程式練習\TwoSum\TwoSum\obj\Debug\TwoSum.csprojResolveAssemblyReference.cache
 D:\程式練習\TwoSum\TwoSum\obj\Debug\TwoSum.dll
 D:\程式練習\TwoSum\TwoSum\obj\Debug\TwoSum.pdb
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSum\bin\Debug\TwoSum.dll
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSum\bin\Debug\TwoSum.pdb
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSum\obj\Debug\TwoSum.csprojResolveAssemblyReference.cache
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSum\obj\Debug\TwoSum.dll
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSum\obj\Debug\TwoSum.pdb

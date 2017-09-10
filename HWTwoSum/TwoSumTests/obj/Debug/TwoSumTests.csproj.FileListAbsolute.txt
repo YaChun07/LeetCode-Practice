@@ -7,12 +7,3 @@ D:\程式練習\TwoSum\TwoSumTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.Qual
 D:\程式練習\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.csprojResolveAssemblyReference.cache
 D:\程式練習\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.dll
 D:\程式練習\TwoSum\TwoSumTests\obj\Debug\TwoSumTests.pdb
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSumTests\bin\Debug\TwoSumTests.dll
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSumTests\bin\Debug\TwoSumTests.pdb
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSumTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSumTests\bin\Debug\TwoSum.dll
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSumTests\bin\Debug\TwoSum.pdb
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSumTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSumTests\obj\Debug\TwoSumTests.csprojResolveAssemblyReference.cache
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSumTests\obj\Debug\TwoSumTests.dll
-D:\GitHub\LeetCode-Practice\HWTwoSum\TwoSumTests\obj\Debug\TwoSumTests.pdb
