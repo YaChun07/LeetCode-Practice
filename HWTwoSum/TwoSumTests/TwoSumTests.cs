@@ -20,5 +20,10 @@ namespace TwoSum.Tests
         {
             CollectionAssert.AreEqual(new int[] { 2, 3 }, TwoSum.twoSum(new int[] { 2, 7, -11, 0 }, -11));
         }
+        [TestMethod()]
+        public void no_answer()
+        {
+            CollectionAssert.AreEqual(null, TwoSum.twoSum(new int[] { 2, 7, -11, 0 }, 20));
+        }
     }
 }

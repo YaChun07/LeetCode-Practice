@@ -1,28 +1,29 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TwoSum
 {
     public class TwoSum
     {
-        public static int[] twoSum(int[] inputArray, int target)
+        public static int[] twoSum(int[] nums, int target)
         {
-            int[] twoSumList = new int[2];
-            for (int i = 0; i < inputArray.Length; i++)
+            var numDictionary = new Dictionary<int, int>();
+
+            for (int i = 0; i < nums.Length; i++)
             {
-                for (int j = i + 1; j < inputArray.Length; j++)
+                numDictionary.Add(i, nums[i]);
+            }
+
+            for (int j = 0; j < nums.Length; j++)
+            {
+                numDictionary.Remove(j);
+                if (numDictionary.ContainsValue(target - nums[j]))
                 {
-                    if (inputArray[i] + inputArray[j] == target)
-                    {
-                        twoSumList[0] = i;
-                        twoSumList[1] = j;
-                    }
+                    return new int[] { j, numDictionary.FirstOrDefault(x => x.Value == target - nums[j]).Key };
                 }
             }
-            return twoSumList;
+            return null;
         }
     }
 }
